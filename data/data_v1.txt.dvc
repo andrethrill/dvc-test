@@ -1,5 +1,6 @@
-md5: 4a0ee7d940d4f0e6ec62f89e2d25e42a
+md5: 33076be9f608c3a358bfd0fa62fa65bf
 outs:
 - cache: true
-  md5: 23bb7952f977d0bb1f0418fdbcbef8c3
+  md5: c3f851336bf7df82dffe60af1c36c2f6
+  metric: false
   path: data_v1.txt
