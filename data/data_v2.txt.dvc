@@ -1,0 +1,12 @@
+cmd: python ../src/makev2.py
+deps:
+- md5: 1e330fc06a0a38db493a297127a3431d
+  path: data_v1.txt
+- md5: 81483807c60fd2ba023487d9949ce9e2
+  path: ../src/makev2.py
+md5: 7b69094ebbc4d57bafe7c8bea82a05a9
+outs:
+- cache: true
+  md5: f19ff4832d7f69ce92080d8f5024d754
+  metric: false
+  path: data_v2.txt
